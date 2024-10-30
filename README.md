@@ -1,4 +1,3 @@
-# LANGKAH-INSTAL-DNS-DI-DEBIAN-10_Alif
 instal bind9
 konfigurasi bind9
 buat zona DNS
